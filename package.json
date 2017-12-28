@@ -1,0 +1,23 @@
+{
+  "name": "yunpnodeserver",
+  "version": "0.0.1",
+  "description": "YunpNodeServer is an application server running on nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plter/YunpNodeServer.git"
+  },
+  "keywords": [
+    "yunp",
+    "server"
+  ],
+  "author": "plter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plter/YunpNodeServer/issues"
+  },
+  "homepage": "https://github.com/plter/YunpNodeServer#readme"
+}
