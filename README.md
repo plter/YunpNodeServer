@@ -1,5 +1,5 @@
 # YunpNodeServer
-YunpNodeServer是一个简单的Nodejs应用服务器，是《[云加JavaScript](https://yunp.top/m/course/v/1)》用于全栈教学的课堂实现。
+YunpNodeServer是一个简单的Nodejs应用服务器，是《[云加JavaScript](https://yunp.top/init/course/v/1)》用于全栈教学的课堂实现。
 
 ## 安装
 
