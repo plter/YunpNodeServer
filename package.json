@@ -1,6 +1,6 @@
 {
   "name": "yns2",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "YunpNodeServer is an application server running on nodejs.",
   "main": "index.js",
   "scripts": {
