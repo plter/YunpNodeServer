@@ -22,6 +22,20 @@ s.addPage("/", async (req, res) => {
 
 ```
 
+## Rendering a template  
+
+```javascript  
+const Server = require("../../index");
+const path = require("path");
+
+let s = new Server();
+s.serve();
+
+s.addPage("/", async (req, res) => {
+    await res.render("index.twig", { name: "yunp" });
+});  
+```
+
 ## 运行
 
 ```shell
