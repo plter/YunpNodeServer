@@ -11,13 +11,13 @@ npm install yunpnodeserver
 main.js 内容如下：  
 
 ```javascript
-const Server = require("yunpnodeserver");
+const Server = require("../../index");
 
 let s = new Server();
 s.serve();
 
-s.addPage("/", (req, res) => {
-    res.end("Hello World");
+s.addPage("/", async (req, res) => {
+    await res.write(`Hello World`);
 });
 
 ```
