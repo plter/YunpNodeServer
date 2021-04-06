@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/plter/YunpNodeServer/issues"
   },
-  "homepage": "https://github.com/plter/YunpNodeServer#readme"
+  "homepage": "https://github.com/plter/YunpNodeServer#readme",
+  "dependencies": {
+    "log4js": "^6.3.0",
+    "twig": "^1.15.4"
+  }
 }
