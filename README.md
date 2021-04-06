@@ -4,7 +4,7 @@ YunpNodeServer是一个简单的Nodejs应用服务器，是《[云加JavaScript]
 ## 安装
 
 ```shell
-npm install yunpnodeserver
+npm install yns2
 ```
 
 ## Hello World
