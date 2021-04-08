@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/plter/YunpNodeServer#readme",
   "dependencies": {
+    "cookie": "^0.4.1",
     "log4js": "^6.3.0",
     "twig": "^1.15.4"
   }
